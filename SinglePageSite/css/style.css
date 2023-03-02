@@ -18,11 +18,7 @@ body {
 
 .menu {
     padding: 0;
-    display: inline-block;
     float: right;
-    /* padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-right:  1rem; */
 }
 
 #menu-list {
