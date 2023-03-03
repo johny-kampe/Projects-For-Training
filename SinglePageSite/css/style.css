@@ -11,7 +11,7 @@ body {
 
 #logo-image{
     /* border: 5px black solid; */
-    margin-left: 3rem;
+    margin-left: 3.5rem;
     width: 150px;
     height: 100px;
 }
@@ -30,7 +30,7 @@ body {
 
 li {
     display: inline-block;
-    padding: 0px 3.5rem;
+    padding: 0px 4rem;
 
 }
 
@@ -40,6 +40,25 @@ li a{
     font-size: 1.8rem;
     font-weight: bold;
 }
- li a:hover{
+
+li a:hover{
     color: white;
- }
+}
+
+.second-area{
+    margin-top: 1.2rem;
+    text-align: center;
+    background-color: black;
+}
+
+.second-area span{
+    font-size: 1.6rem;
+    margin-top: 3rem;
+    color: white;
+}
+
+.third-area{
+    border: 2px solid black;
+    height: 200px;
+    margin-top: 0.9rem;
+}
